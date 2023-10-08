@@ -1,4 +1,9 @@
 /* game board table */
+table {
+  position: absolute;
+
+
+}
 
 #board td {
     width: 50px;
